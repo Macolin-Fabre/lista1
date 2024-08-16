@@ -1,4 +1,6 @@
-﻿using System;
+// turma 253 
+//nome : Lucas, Macolin e Tiago
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
